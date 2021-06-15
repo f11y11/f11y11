@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![f11y11's GitHub stats](https://github-readme-stats.vercel.app/api?username=f11y11&count-private=true&show_icons=true&hide_rank=true&hide_title=true)](https://github.com/f11y11/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f11y11&layout=compact)](https://github.com/f11y11/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f11y11&layout=compact&theme=synthwave)](https://github.com/f11y11/)
  
