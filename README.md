@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![f11y11's GitHub stats](https://github-readme-stats.vercel.app/api?username=f11y11&count-private=true&show_icons=true&hide_rank=true)](https://github.com/f11y11/)\
+[![f11y11's GitHub stats](https://github-readme-stats.vercel.app/api?username=f11y11&count-private=true&show_icons=true&hide_rank=true)](https://github.com/f11y11/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f11y11)](https://github.com/f11y11/)
  
