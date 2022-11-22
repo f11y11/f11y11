@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 [![f11y11's GitHub stats](https://github-readme-stats.vercel.app/api?username=f11y11&count-private=true&show_icons=true&hide_rank=false&hide_title=true&theme=nightowl)](https://github.com/f11y11/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f11y11&layout=compact&theme=nightowl)](https://github.com/f11y11/)
  
+Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/f11y11/count.svg)
+
+
